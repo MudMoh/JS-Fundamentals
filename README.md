@@ -1,1 +1,1 @@
-My firs JS
+My first JS
